@@ -69,4 +69,3 @@ The Setup and Configuration screens are protected by simple password.
 The default password is blank (nothing).
 
 You can configure the password on the configuration screen.
-
