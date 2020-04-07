@@ -10,6 +10,8 @@ This is the Power Treasure Hunt App. A Power Apps Canvas app build to manage and
 
 The app is build using only standard features of Canvas Apps. There are no connections to external data sources. The app uses Bing Maps to display sattelite imagery as clues to find waypoints.
 
+Use the app as it is or customize it to your own liking.
+
 ## NOTE
 
 The app use the SaveData and LoadData formulas to store and restore app data locally on the device. These formulas are not supported when running Canvas Apps in the browser. Hence, this app only supports Mobile Phone Power Apps Players.
