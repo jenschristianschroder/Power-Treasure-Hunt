@@ -10,6 +10,12 @@ This is the Power Treasure Hunt App. A Power Apps Canvas app build to manage and
 
 The app is build using only standard features of Canvas Apps. There are no connections to external data sources. The app uses Bing Maps to display sattelite imagery as clues to find waypoints.
 
+## Installation
+
+Download the Power Treasure Hunt app here [https://github.com/jenschristianschroder/Power-Treasure-Hunt/raw/master/Canvas%20App/PowerTreasureHunt.zip](https://github.com/jenschristianschroder/Power-Treasure-Hunt/raw/master/Canvas%20App/PowerTreasureHunt.zip)
+
+Import it into your Power Platform environment. You can use a Community Plan ([https://powerapps.microsoft.com/en-us/communityplan/](https://powerapps.microsoft.com/en-us/communityplan/)) if you don't have access to Power Platform already.
+
 ## Features
 
 ### Start the treasure hunt
@@ -20,7 +26,7 @@ Start the treasure hunt by clicking Start on the Welcome screen.
 
 ### Find clues
 
-![Clues Screen](Images/Clues-Screen.PNG)
+![Clues Screen](Images/Clue-Screen.PNG)
 
 Walk around and keep an eye on the distance measurement. It will fluctuate but if you walk around you will be able to pin point the direction to the next clue.
 
@@ -32,7 +38,7 @@ Once you get closer to the clue the image will get brighter.
 
 Add new waypoints to the list of waypoints using the waypoint editor
 
-Use either a photo from camera or your device or use a satellite image of the current location curtesy of Bing Maps (Require a free Bing Maps API key - get yours here: [!BingMapsPortal](https://www.bingmapsportal.com))
+Use either a photo from camera or your device or use a satellite image of the current location curtesy of Bing Maps (Require a free Bing Maps API key - get yours here: [https://www.bingmapsporta.com](https://www.bingmapsportal.com)
 
 If you use Bing Maps satellite imagery you can use the Pin size slider (left) and Zoom level slider (right) to alter the satellite images.
 
